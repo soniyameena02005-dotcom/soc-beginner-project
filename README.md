@@ -17,4 +17,4 @@ Fail login investigation
 Basic threat detection
 Security incident documention
 ## Status
-In Progress-Beginner SOC Analyst Project
+In Progress-Beginner SOC Analyst Project.
